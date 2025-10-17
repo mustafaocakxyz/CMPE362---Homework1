@@ -2,7 +2,7 @@
 
 ## Figures & Outputs
 
-### Overshoot Valuse wrto N
+### Overshoot Values x N
 <img width="584" height="83" alt="Screenshot 2025-10-17 at 16 52 39" src="https://github.com/user-attachments/assets/a35be597-8723-48ff-b632-b9fd684751d3" />
 
 ### Fourier Series and Square Wave
